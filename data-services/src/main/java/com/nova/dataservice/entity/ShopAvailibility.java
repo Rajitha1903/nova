@@ -11,32 +11,16 @@ import jakarta.persistence.Table;
 public class ShopAvailibility {
 	
 	private Long id;
-	
-	
 	private LocalDateTime fromDate;
-	
-	
 	private LocalDateTime toDate;
-	
-	
 	private LocalTime fromTime;
-	
-	
 	private LocalTime toTime;
-	
-	
 	private LocalTime interval;
-	
-	private Long  shopId;
-	
-	
+	private ShopDetails  shopId;
 	private String status;
-	
-	
 	private String isDeleted;
 	
-	public ShopAvailibility() {
+	
 		
-	}
 
 }

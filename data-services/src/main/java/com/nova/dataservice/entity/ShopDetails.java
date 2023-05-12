@@ -22,5 +22,7 @@ public class ShopDetails {
 	private Boolean isDeleted;
 	private long shopType;
 	
+	private UserDetails owner;
+	
 
 }
