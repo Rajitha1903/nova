@@ -1,4 +1,4 @@
-package com.nova.dataservice.Entity;
+package com.nova.dataservice.entity;
 
 import java.time.LocalDateTime;
 import java.time.LocalTime;
