@@ -5,6 +5,7 @@ import java.time.LocalDateTime;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 
+// Nan Maga LOHITH
 @Entity
 @Table(name="appointment_dtails")
 public class AppointmentDetails 
